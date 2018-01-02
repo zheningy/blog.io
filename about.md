@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "He that seeks finds." 
 header-img: "img/green.jpg"
 ---
 

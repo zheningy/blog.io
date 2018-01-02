@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "Project"
+title: "Projects"
+description: "He that seeks finds."
 header-img: "img/zhihu.jpg"
 ---
 

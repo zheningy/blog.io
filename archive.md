@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "He that seeks finds."
 header-img: "img/orange.jpg"
 ---
 
